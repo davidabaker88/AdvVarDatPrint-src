@@ -1,0 +1,26 @@
+//Create a program in IntelliJ  that does the following: 
+
+/* print vs println */
+//declare a string variable called stringVar and intitialize it to be the string "Why does Waldo wear a striped shirt? "
+//declare a integer variable called myInt and intitialize it to be 10
+//declare a string variable called stringVar2 and initialize it to "Because he does not want to be spotted."
+//print "the number you entered is: "  and the the value of myInt. followed by a new line using 1 line of code
+//print "the number you entered is: "  and the the value of myInt. followed by a new line using 2 lines of code
+//for the above do not type 10, use the variable instead. same for the rest of them.
+//print the value of stringVar and stringVar2 on 1 line. using 1 line of code
+//print the value of stringVar and stringVar2 on 2 lines. using 2 lines of code
+//print the value of stringVar and stringVar2 on 1 line. using 2 lines of code
+
+/* declaring types of variables and expressions */
+//declare a variable that would hold the number 12.5
+//declare an integer and initialize it to 6
+//multiply the two variables that you just created and put the result into a new variable caled "result"
+
+//declare an integer variable called "num1" and initialize it to be 10
+//declare an integer variable called "num2" and initialize it to be 3
+//divide num1 by num2 and put the result into a new integer variable called resultTest1
+//divide num1 by num2 and put the result into a new double variable called resultTest2
+//print "resultTest1: " and the value of resultTest1 on one line  
+//print "resultTest2: " and the value of resultTest2 on one line  
+
+/*Look at the results, do the values for resultTest1 and resultTest2 make sense?  Why does this happen?- Will be part of explanation*/
