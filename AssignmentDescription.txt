@@ -14,7 +14,7 @@
 /* declaring types of variables and expressions */
 //declare a variable that would hold the number 12.5
 //declare an integer and initialize it to 6
-//multiply the two variables that you just created and put the result into a new variable caled "result"
+//multiply the two variables that you just created and put the result into a new variable called "result"
 
 //declare an integer variable called "num1" and initialize it to be 10
 //declare an integer variable called "num2" and initialize it to be 3
